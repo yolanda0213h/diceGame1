@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA025F0C21FC933C002DF1E6 /* rolldice.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AA025F0B21FC933C002DF1E6 /* rolldice.mp3 */; };
 		AAFA544121E4DC0C00854A9E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFA544021E4DC0C00854A9E /* AppDelegate.swift */; };
 		AAFA544321E4DC0C00854A9E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFA544221E4DC0C00854A9E /* ViewController.swift */; };
 		AAFA544621E4DC0C00854A9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAFA544421E4DC0C00854A9E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AA025F0B21FC933C002DF1E6 /* rolldice.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = rolldice.mp3; path = "../../../../02downloadsApp/11.2dice-master/11.2dice/Assets.xcassets/rolldice.dataset/rolldice.mp3"; sourceTree = "<group>"; };
 		AAFA543D21E4DC0C00854A9E /* diceGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diceGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAFA544021E4DC0C00854A9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AAFA544221E4DC0C00854A9E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				AAFA544221E4DC0C00854A9E /* ViewController.swift */,
 				AAFA544421E4DC0C00854A9E /* Main.storyboard */,
 				AAFA544721E4DC0E00854A9E /* Assets.xcassets */,
+				AA025F0B21FC933C002DF1E6 /* rolldice.mp3 */,
 				AAFA544921E4DC0E00854A9E /* LaunchScreen.storyboard */,
 				AAFA544C21E4DC0E00854A9E /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA025F0C21FC933C002DF1E6 /* rolldice.mp3 in Resources */,
 				AAFA544B21E4DC0E00854A9E /* LaunchScreen.storyboard in Resources */,
 				AAFA544821E4DC0E00854A9E /* Assets.xcassets in Resources */,
 				AAFA544621E4DC0C00854A9E /* Main.storyboard in Resources */,
